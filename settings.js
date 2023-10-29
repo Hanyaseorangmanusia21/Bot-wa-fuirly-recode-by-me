@@ -10,27 +10,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285813708397'] //ur owner number
-global.ownernomer = "6285813708397" //ur owner number2
-global.ownername = "FallZx" //ur owner name
-global.ytname = "YT: FallXD425" //ur yt chanel name
-global.socialm = "GitHub: FallEzz" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6283833091062'] //ur owner number
+global.ownernomer = "6283833091062" //ur owner number2
+global.ownername = "VallTzy" //ur owner name
+global.ytname = "YT: rheivaltatau" //ur yt chanel name
+global.socialm = "GitHub: Hanyamanusiabiasa21" //ur github or insta name
+global.location = "Indonesia, Bandung, Pangalengan" //ur location
 
 //new
-global.botname = "Fuirly Botz - MD"
-global.ownernumber = '6285813708397'
-global.ownername = '6285813708397'
-global.ownerNumber = ["6285813708397@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@FallXD425"
-global.websitex = "https://youtu.be/ecl-JDVDz3E"
+global.botname = "VallTzy Botz - MD"
+global.ownernumber = '6283833091062'
+global.ownername = '6283833091062'
+global.ownerNumber = ["6283833091062@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@rheivaltatau"
+global.websitex = "https://www.youtube.com/@rheivaltatau7784"
 global.wagc = "https://chat.whatsapp.com/KCYr0YwODJTEEFUlPxuNXQ"
 global.themeemoji = '🥀'
-global.wm = "FallZx"
+global.wm = "VallTzy"
 global.botscript = 'Silahkan Datang Ke Channel FallXD425' //script link
 global.packname = "Sticker By"
-global.author = "Fuirly\n\n\nA whatsapp bot Created by\nFallZx Development\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +6285813708397"
-global.creator = "6285813708397@s.whatsapp.net"
+global.author = "VallBoT\n\n\nA whatsapp bot Created by\nVallTzy Development\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +6285813708397"
+global.creator = "6283833091062@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
